@@ -8,5 +8,5 @@ COPY . .
 
 EXPOSE 4000
 
-CMD python server.py
+CMD python srvr.py
 
